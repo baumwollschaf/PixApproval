@@ -108,6 +108,7 @@
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="..\Shared\pa.Utils.Settings.pas"/>
+        <DCCReference Include="..\Shared\pa.Utils.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
