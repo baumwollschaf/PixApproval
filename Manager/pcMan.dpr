@@ -1,4 +1,4 @@
-program paMan;
+program pcMan;
 
 uses
   Vcl.Forms,

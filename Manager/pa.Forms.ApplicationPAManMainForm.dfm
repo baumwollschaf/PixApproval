@@ -1,7 +1,7 @@
 object frmApplicationPAManMainForm: TfrmApplicationPAManMainForm
   Left = 0
   Top = 0
-  Caption = 'PixApproval Manager'
+  Caption = 'PhotoCredit Manager'
   ClientHeight = 441
   ClientWidth = 624
   Color = clBtnFace
@@ -14,9 +14,9 @@ object frmApplicationPAManMainForm: TfrmApplicationPAManMainForm
   OnCreate = FormCreate
   TextHeight = 15
   object Connection: TFDConnection
-    ConnectionName = 'PixApproval'
+    ConnectionName = 'PhotoCredit'
     Params.Strings = (
-      'Database=PixApproval'
+      'Database=PhotoCredit'
       'User_Name=sa'
       'Password=1234'
       'DriverID=MSSQL'
